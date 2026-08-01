@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager & Build Artifacts
+/.build
+/build
+.swiftpm
+*.app
+
+# IDE / Editor Files
+.idea
+*.xcodeproj
+*.xcworkspace
