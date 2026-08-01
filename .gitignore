@@ -1,4 +1,4 @@
-# macOS
+# macOS System Files
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -8,6 +8,13 @@
 /build
 .swiftpm
 *.app
+
+# Internal Specs & Notes
+proje.md
+PROGRESS.md
+walkthrough.md
+implementation_plan.md
+bug_report.md
 
 # IDE / Editor Files
 .idea
